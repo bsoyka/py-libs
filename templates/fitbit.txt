@@ -1,0 +1,15 @@
+When it comes to reaching your fitness goals, {0} are just the beginning.
+Fitbit tracks every part of your day--including activity, exercise, food,
+{1} and sleep--to help you find your {2}, stay motivated, and see how
+small {0} make a big impact. 
+
+- Sync stats wirelessly and {3} from your Fitbit device to your {4} or {5}. 
+
+- Reach your goals by {6} {7} {8} and celebrate milestones with {9} badges. 
+
+- Encourage friends and {10} to join your path to fitness with the leaderboard,
+  group challenges, and {11} or {12}. 
+
+For {13} years we've dedicated ourselves to designing devices you'd want to
+{14} and an app you'd love to {15}. It's the only thing we do. 
+And we're really good at it.
